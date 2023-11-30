@@ -1,0 +1,6 @@
+llama-index
+langchain
+arxiv
+sentence-transformers
+sentencepiece
+pypdf
